@@ -7,3 +7,4 @@ Diabetes is a common problem in different ages people and those people who not o
 # Install All packages
 # Launch Jupyter Notebook
 # Run Codes
+<b>Contact with me:</b> md.khalil002@stud.fh-dortmund.com / ibrahim.khalil.cub@gmail.com
